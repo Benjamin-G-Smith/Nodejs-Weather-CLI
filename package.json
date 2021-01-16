@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-weather-cli",
+  "version": "1.0.0",
+  "description": "A ClI program to retrieve weather data",
+  "main": "index.js",
+  "bin": {
+    "weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "cli-table3": "^0.6.0",
+    "conf": "^8.0.0",
+    "esm": "^3.2.25",
+    "minimist": "^1.2.5"
+  }
+}
