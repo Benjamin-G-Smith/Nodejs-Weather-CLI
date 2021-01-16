@@ -1,4 +1,4 @@
-# Nodejs-Weather-CLI 
+# Node.js-Weather-CLI 
 A CLI tool to query weather from the command line
 
 # How to use 
